@@ -1,0 +1,109 @@
+:root {
+    --cor-principal: #28a745;
+    --cor-secundaria: #f8f9fa;
+    --cor-escura: #343a40;
+    --cor-clara: #ffffff;
+    --cor-acento: #ff5733;
+}
+
+/* Resetando alguns estilos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos para o corpo do site */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: var(--cor-secundaria);
+    color: var(--cor-escura);
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: var(--cor-principal);
+    color: var(--cor-clara);
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 3rem;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+/* Seções */
+section {
+    padding: 30px 0;
+    margin: 0 10%;
+}
+
+section h2 {
+    color: var(--cor-principal);
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+/* Estilos para os links */
+a {
+    text-decoration: none;
+    color: var(--cor-principal);
+    font-weight: bold;
+}
+
+a:hover {
+    color: var(--cor-acento);
+}
+
+/* Galeria de imagens */
+.galeria .imagens {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.galeria img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Footer */
+footer {
+    background-color: var(--cor-principal);
+    color: var(--cor-clara);
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Containers para centralizar o conteúdo */
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Estilos para dispositivos móveis */
+@media screen and (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+
+    .galeria .imagens {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header h1 {
+        font-size: 2rem;
+    }
+
+    header p {
+        font-size: 1rem;
+    }
+}
