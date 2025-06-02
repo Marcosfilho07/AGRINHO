@@ -41,6 +41,7 @@ header p {
   padding: 0 15px;
   text-align: justify;
   line-height: 1.6;
+  box-sizing: border-box;
 }
 
 /* Navegação */
