@@ -60,6 +60,16 @@ a {
 a:hover {
     color: var(--cor-acento);
 }
+.acessibilidade button {
+  margin-left: 0.5rem;
+  padding: 0.4rem;
+  border: none;
+  background-color: white;
+  color: var(--cor-principal);
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 4px;
+}
 
 /* Galeria de imagens */
 .galeria .imagens {
@@ -80,6 +90,20 @@ footer {
     color: var(--cor-clara);
     text-align: center;
     padding: 10px 0;
+}
+
+body.contraste {
+  background-color: black;
+  color: white;
+}
+
+body.contraste header,
+body.contraste footer {
+  background-color: #000;
+}
+
+body.contraste nav a {
+  color: #0f0;
 }
 
 /* Containers para centralizar o conteúdo */
