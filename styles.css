@@ -89,10 +89,19 @@ a:hover {
 /* Galeria de imagens */
 #galeria {
     background-color: #FAF4F4;
+    padding: 2rem 0;
 }
 
 .fundo-galeria {
-    background-size: 180px 180px;
+     background: none;
+     border: none;
+     padding: 0;
+}
+
+#galeria img {
+  height: auto;
+  max-height: 400px;
+  object-fit: cover;
 }
 
 /* Footer */
