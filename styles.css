@@ -36,12 +36,17 @@ header h1 {
     font-size: 3rem;
 }
 
-header p {
+header p1 {
   max-width: 700px;
   margin: 0 auto 1.5rem;
   padding: 0 15px;
   text-align: justify;
   line-height: 1.6;
+}
+header p{
+    text-align: justify;
+    line-height: 1.6;
+    margin: 15px 0;
 }
 
 nav ul {
