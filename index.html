@@ -136,30 +136,30 @@ Em resumo, os problemas florestais representam uma ameaça séria ao equilíbrio
     // Acessibilidade JS
         const contrasteBtn = document.getElementById('contraste');
         const btnAumentar = document.getElementById('btnAumentar');
-  const btnDiminuir = document.getElementById('btnDiminuir');
+        const btnDiminuir = document.getElementById('btnDiminuir');
 
-  let tamanhoAtualFonte = 1.0;
-  const maxFonte = 2.0;
-  const minFonte = 0.8;
-  const passo = 0.1;
-
-  contrasteBtn.onclick = () => {
-    document.body.classList.toggle('contraste');
-  }
-
-  btnAumentar.addEventListener('click', () => {
-    if (tamanhoAtualFonte < maxFonte) {
-      tamanhoAtualFonte += passo;
-      document.body.style.fontSize = `${tamanhoAtualFonte}rem`;
+    let tamanhoAtualFonte = 1.0;
+    const maxFonte = 2.0;
+    const minFonte = 0.8;
+    const passo = 0.1;
+    
+    contrasteBtn.onclick = () => {
+      document.body.classList.toggle('contraste');
     }
-  });
-
-  btnDiminuir.addEventListener('click', () => {
-    if (tamanhoAtualFonte > minFonte) {
-      tamanhoAtualFonte -= passo;
-      document.body.style.fontSize = `${tamanhoAtualFonte}rem`;
-    }
-  });
+    
+    btnAumentar.addEventListener('click', () => {
+      if (tamanhoAtualFonte < maxFonte) {
+        tamanhoAtualFonte += passo;
+        document.documentElement.style.fontSize = `${tamanhoAtualFonte}rem`;
+      }
+    });
+    
+    btnDiminuir.addEventListener('click', () => {
+      if (tamanhoAtualFonte > minFonte) {
+        tamanhoAtualFonte -= passo;
+        document.documentElement.style.fontSize = `${tamanhoAtualFonte}rem`;
+      }
+    });
 </script>
 </body>
 </html>
