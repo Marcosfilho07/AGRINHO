@@ -34,9 +34,9 @@ header h1 {
 }
 
 header p {
-    font-size: 1.2rem;
-    margin-top: 10px;
     text-align: justify;
+    line-height: 1.6;
+    margin: 15px 0;
 }
 
 nav ul {
@@ -91,18 +91,25 @@ a:hover {
 #galeria {
     background-color: #FAF4F4;
     padding: 2rem 0;
+    text-align: center; /* para centralizar as imagens */
 }
 
+/* removendo fundo e bordas do container interno */
 .fundo-galeria {
      background: none;
      border: none;
      padding: 0;
 }
 
+/* imagens da galeria com tamanho fixo e corte proporcional */
 #galeria img {
-  height: auto;
-  max-height: 400px;
-  object-fit: cover;
+  width: 400px;       /* largura fixa */
+  height: 250px;      /* altura fixa */
+  object-fit: cover;  /* corta sem distorcer */
+  border-radius: 8px;
+  margin: 10px;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 /* Footer */
