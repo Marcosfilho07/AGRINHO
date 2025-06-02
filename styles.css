@@ -47,7 +47,7 @@ nav ul {
   list-style: none;
   padding: 0;
   gap: 1rem;
-  align-items: center;
+  text-align: center;
 }
 
 nav a {
