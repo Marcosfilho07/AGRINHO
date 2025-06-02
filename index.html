@@ -80,5 +80,15 @@
             <p>Feito por Marcos Henrique Romualdo da Silva Filho | Concurso Agrinho.</p>
         </div>
     </footer>
+    <script>
+    // Acessibilidade JS
+        const contrasteBtn = document.getElementById('contraste');
+        const aumentarBtn = document.getElementById('aumentar');
+        const diminuirBtn = document.getElementById('diminuir');
+
+        contrasteBtn.onclick = () => document.body.classList.toggle('contraste');
+        aumentarBtn.onclick = () => document.body.style.fontSize = 'larger';
+        diminuirBtn.onclick = () => document.body.style.fontSize = 'smaller';
+    </script>
 </body>
 </html>
