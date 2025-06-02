@@ -38,15 +38,17 @@ header p {
     margin-top: 10px;
 }
 
-.botoes {
-     margin-left: 0.5rem;
-     padding: 0.4rem;
-     border: none;
-     background-color: white;
-     color: var(--cor-principal);
-     font-weight: bold;
-     cursor: pointer;
-     border-radius: 4px;
+nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  gap: 1rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 /* Seções */
