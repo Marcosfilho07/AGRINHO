@@ -99,6 +99,7 @@ a:hover {
     background-color: #FAF4F4;
     padding: 2rem 0;
     text-align: center;
+    border-radius: 15px;
 }
 
 /* container interno */
@@ -106,7 +107,6 @@ a:hover {
      background: none;
      border: none;
      padding: 0;
-     border-radius: 15px;
 }
 
 /* Imagens da galeria responsivas */
