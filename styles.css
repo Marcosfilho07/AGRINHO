@@ -134,7 +134,10 @@ body.contraste {
   color: white;
 }
 
-body.contraste header,
+body.contraste header{
+  background-color: #0e471b;
+}
+
 body.contraste footer {
   background-color: #000;
 }
