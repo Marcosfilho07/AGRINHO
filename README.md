@@ -25,7 +25,7 @@ Projeto educacional desenvolvido para o Programa Agrinho, com o objetivo de cons
 O conteúdo textual do site foi elaborado com base em fontes confiáveis e educativas:
 
 - **Programa Agrinho - Sistema FAEP/SENAR-PR**: Informações sobre educação ambiental e sustentabilidade. [https://www.sistemafaep.org.br/agrinho/](https://www.sistemafaep.org.br/agrinho/)
-- **Brasil Escola**: Materiais didáticos sobre biomas e conservação ambiental. [https://brasilescola.uol.com.br/](https://brasilescola.uol.com.br/)
+- **Brasil Escola**: Materiais Complementares. [https://brasilescola.uol.com.br/](https://brasilescola.uol.com.br/)
 - **Lunetas**: Projetos escolares e iniciativas de conscientização ambiental. [https://lunetas.com.br/](https://lunetas.com.br/)
 - **Wordwall**: Jogos e quizzes educativos sobre conservação florestal. [https://wordwall.net/](https://wordwall.net/)
 
