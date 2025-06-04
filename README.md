@@ -28,7 +28,7 @@ O conteúdo textual do site foi elaborado com base em fontes confiáveis e educa
 - **Brasil Escola**: Materiais Complementares. [https://brasilescola.uol.com.br/](https://brasilescola.uol.com.br/)
 - **Lunetas**: Projetos escolares e iniciativas de conscientização ambiental. [https://lunetas.com.br/](https://lunetas.com.br/)
 - **Wordwall**: Jogos e quizzes educativos sobre conservação florestal. [https://wordwall.net/](https://wordwall.net/)
-
+- **Greenpeace Brasil**: Como ajudar. [https://www.greenpeace.org/brasil/](https://www.greenpeace.org/brasil/)
 
  🖼️ Créditos das Imagens
 
