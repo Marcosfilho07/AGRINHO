@@ -40,7 +40,7 @@ O conteúdo textual do site foi elaborado com base em fontes confiáveis e educa
 
 📄 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
 
  📬 Contato
 
