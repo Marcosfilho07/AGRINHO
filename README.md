@@ -32,8 +32,8 @@ O conteúdo textual do site foi elaborado com base em fontes confiáveis e educa
 
  🖼️ Créditos das Imagens
 
-- **floresta-preservada.jpg**: Imagem representando uma floresta em bom estado de conservação. Fonte: [Pixabay](https://pixabay.com/)
-- **floresta-degradada.jpg**: Imagem ilustrando os efeitos da degradação florestal. Fonte: [Pixabay](https://pixabay.com/)
+- **floresta-preservada.jpg**: Imagem representando uma floresta em bom estado de conservação. Fonte: [Google]([https://pixabay.com/](https://www.google.com/imgres?q=floresta-preservada&imgurl=https%3A%2F%2Fwww.brkambiental.com.br%2Fuploads%2F15%2Fmaua%2Fpreservacao-da-amazonia.jpg&imgrefurl=https%3A%2F%2Fwww.brkambiental.com.br%2Fmaua%2Fno-dia-de-protecao-as-florestas-brk-ambiental-destaca-como-o-desmatamento-pode-afetar-rios-e-corregos-na-cidade&docid=OeoleO5JWuGpOM&tbnid=S44FbXNTDfYxRM&vet=12ahUKEwjByanKh5KOAxXrHLkGHed3I-oQM3oECGoQAA..i&w=1500&h=999&hcb=2&ved=2ahUKEwjByanKh5KOAxXrHLkGHed3I-oQM3oECGoQAA))
+- **floresta-degradada.jpg**: Imagem ilustrando os efeitos da degradação florestal. Fonte: [CICLOVIVO](https://ciclovivo.com.br/planeta/meio-ambiente/inpe-desmatamento-quatro-biomas/)
 
 *Obs.: As imagens utilizadas são de domínio público e foram obtidas de bancos de imagens gratuitos.*
 
